@@ -4,7 +4,7 @@
   <img src="https://www.sentimetrik.co/brand/sentimetrik-logo-v2.png" alt="Sentimetrik" width="320">
 </a>
 
-### Inteligencia de experiencia con IA · *Feel the Data*
+### <img src="https://www.sentimetrik.co/icon.png" alt="" width="24" height="24" align="top"> Inteligencia de experiencia con IA · *Feel the Data*
 
 Convertimos respuestas, comentarios y conversaciones en insights que ayudan a entender qué está pasando y por qué.
 
@@ -42,6 +42,8 @@ Retail · Automotriz · Personas y cultura · Eventos · Producto y e-commerce �
 <div align="center">
 
 Gratis para empezar · Español e inglés
+
+<a href="https://www.sentimetrik.co"><img src="https://www.sentimetrik.co/icon.png" alt="Sentimetrik" width="32" height="32"></a>
 
 <sub>© Sentimetrik AI</sub>
 
